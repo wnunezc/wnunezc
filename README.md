@@ -27,34 +27,27 @@ La tecnología es más que una vocación, es parte de mi ADN. Soy un apasionado 
 
 ## 🛠️ Tecnologías y Herramientas
 
-| Lenguajes / Frameworks                               | Nivel           |
-|------------------------------------------------------|------------------|
-| PHP (5.6 – 8.1), Laravel, Symfony, Code-Igniter      | Intermedio       |
-| JavaScript / jQuery / TS / EMACS / JSON / API        | Intermedio       |
-| HTML 4.1 / 5 / CSS3 / CSS2.1                         | Intermedio       |
-| MySQL / SQL / noSQL / Firebase                       | Intermedio       |
-| React / Node.js / NExt.js / Angular                  | Básico           |
-| .NET (C#, C++)                                       | Básico – Intermedio |
-| Java / Kotlin                                        | Básico           |
-| Python / Rust / Dart                                 | Básico           |
-| Git / GitHub                                         | Básico           |
+<div align="center">
 
-| Herramientas / Otros / Servers                    | Nivel      |
-|---------------------------------------------------|------------|
-| Linux, VM Workstation, Docker, Kubernetes         | Intermedio |
-| Apache, Nginx, FPM                                | Intermedio |
-| JetBrains IDE, Visual Studio, SublimeText, Notion | Intermedio |
-| PHPMyAdmin / Workbench                            | Intermedio |
-| SCRUM / AGILE                                     | Intermedio |
-| MVC / POO                                         | Intermedio |
-| SOX / ISO/IEC 27001                               | Intermedio |
-| Análisis FODA, EDA, AVC                           | Intermedio |
-| Agile Scrum / Kanban / Lean                       | Intermedio |
-| AWS EC2, RDS, Lambda, ECS                         | Básico     |
-| Azure Virtual Machines                            | Básico     |
-| Google Cloud Platform                             | Básico     |
-| Microsoft Azure                                   | Básico     |
-| OpenStack, Terraform,                             | Básico     |
+| Lenguajes / Frameworks                               | Nivel           | Lenguajes / Frameworks                               | Nivel           |
+|------------------------------------------------------|------------------|------------------------------------------------------|------------------|
+| PHP (5.6 – 8.1), Laravel, Symfony, Code-Igniter      | Intermedio       | JavaScript / jQuery / TS / EMACS / JSON / API        | Intermedio       |
+| HTML 4.1 / 5 / CSS3 / CSS2.1                         | Intermedio       | MySQL / SQL / noSQL / Firebase                       | Intermedio       |
+| React / Node.js / NExt.js / Angular                  | Básico           | .NET (C#, C++) .NET Core                             | Básico – Intermedio |
+| Java / Kotlin                                        | Básico           | Python / Rust / Dart                                 | Básico           |
+| Git / GitHub                                         | Básico           |  |            |
+
+| Herramientas / Otros / Servers                    | Nivel      | Herramientas / Otros / Servers                    | Nivel      |
+|---------------------------------------------------|------------|---------------------------------------------------|------------|
+| Linux, VM Workstation, Docker, Kubernetes         | Intermedio | Apache, Nginx, FPM                                | Intermedio |
+| JetBrains IDE, Visual Studio, SublimeText, Notion | Intermedio | PHPMyAdmin / Workbench                            | Intermedio |
+| SCRUM / AGILE                                     | Intermedio | MVC / POO                                         | Intermedio |
+| SOX / ISO/IEC 27001                               | Intermedio | Análisis FODA, EDA, AVC                           | Intermedio |
+| Agile Scrum / Kanban / Lean                       | Intermedio | AWS EC2, RDS, Lambda, ECS                         | Básico     |
+| Azure Virtual Machines                            | Básico     | Google Cloud Platform                             | Básico     |
+| Microsoft Azure                                   | Básico     | OpenStack, Terraform,                             | Básico     |
+
+</div>
 
 ---
 
