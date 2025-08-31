@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Walter Francisco Nuñez Cruz (Arcanis)
+# 👨‍💻 Walter Francisco Nuñez Cruz
 
 **Ingeniero en Sistemas | Arquitecto de Soluciones | Desarrollador Full Stack**
 
