@@ -17,6 +17,7 @@
 
 </div>
 
+
 ---
 
 ## 🧠 Sobre mí
@@ -24,6 +25,13 @@
 La tecnología es más que una vocación, es parte de mi ADN. Soy un apasionado de la programación, con una mentalidad crítica, adaptable y orientada a resultados. Me especializo en sistemas web, telecomunicaciones y procesos de digitalización. Además, combino mis habilidades técnicas con una fuerte vocación humanitaria, siendo voluntario activo de la Cruz Roja Panameña desde 1999.
 
 ---
+
+## Visitas a mi perfil:
+
+<a href="https://u8views.com/github/wnunezc"><img src="https://u8views.com/api/v1/github/profiles/1207306/views/day-week-month-total-count.svg"></a>
+
+---
+
 
 ## 🛠️ Tecnologías y Herramientas
 
