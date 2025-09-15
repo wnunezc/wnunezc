@@ -8,7 +8,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Walter%20Nuñez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/walter-francisco-n%C3%BA%C3%B1ez-cruz/)
-[![GitHub](https://img.shields.io/badge/GitHub-arcanisgk-181717?style=for-the-badge&logo=github)](https://github.com/wnunezc)
+[![GitHub](https://img.shields.io/badge/GitHub-wnunezc-181717?style=for-the-badge&logo=github)](https://github.com/wnunezc)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-%20Francisco%20IA%20Lover-FE7A16?style=for-the-badge&logo=stackoverflow)](https://es.stackoverflow.com/users/315134/francisco-ia-lover)
 [![Email](https://img.shields.io/badge/Email-wnunez@lh--2.net-D14836?style=for-the-badge&logo=gmail)](mailto:wnunez@lh-2.net)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50766227744)
@@ -150,7 +150,7 @@ I'm open to new collaborations, crazy ideas, challenging projects or simply shar
 ## 📡 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Walter%20Nuñez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/walter-francisco-n%C3%BA%C3%B1ez-cruz/)
-[![GitHub](https://img.shields.io/badge/GitHub-arcanisgk-181717?style=for-the-badge&logo=github)](https://github.com/arcanisgk)
+[![GitHub](https://img.shields.io/badge/GitHub-wnunezc-181717?style=for-the-badge&logo=github)](https://github.com/wnunezc)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-%20Francisco%20IA%20Lover-FE7A16?style=for-the-badge&logo=stackoverflow)](https://es.stackoverflow.com/users/315134/francisco-ia-lover)
 [![Email](https://img.shields.io/badge/Email-wnunez@lh--2.net-D14836?style=for-the-badge&logo=gmail)](mailto:wnunez@lh-2.net)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50766227744)
